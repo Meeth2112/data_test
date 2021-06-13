@@ -2,31 +2,11 @@
         {
             "SYMBOL": "INDIACEM",
             "SERIES": "EQ",
-            "OPEN": 89.9,
-            "HIGH": 91,
-            "LOW": 86.2,
-            "CLOSE": 86.45,
-            "LAST": 86.4,
-            "PREVCLOSE": 89.35,
-            "TOTTRDQTY": 5207151,
-            "TOTTRDVAL": 461087442.4,
-            "TIMESTAMP": "2016-04-07",
-            "TOTALTRADES": 25150,
-            "ISIN": "INE383A01012"
+            "OPEN": 89.9
         },
         {
             "SYMBOL": "INDIAGLYCO",
             "SERIES": "EQ",
-            "OPEN": 86.5,
-            "HIGH": 93.45,
-            "LOW": 85.2,
-            "CLOSE": 89.1,
-            "LAST": 90.25,
-            "PREVCLOSE": 86.45,
-            "TOTTRDQTY": 378665,
-            "TOTTRDVAL": 34304796.35,
-            "TIMESTAMP": "2016-04-07",
-            "TOTALTRADES": 4974,
-            "ISIN": "INE560A01015"
+            "OPEN": 86.5
         }
 ]
